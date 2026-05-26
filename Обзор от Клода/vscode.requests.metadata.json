@@ -1,0 +1,19 @@
+[
+  {
+    "vscodeRequestId": "request_3c452214-8f53-4e47-974d-6f2b586f7aff",
+    "copilotRequestId": "c96b4389-d49c-4413-a99f-ab6f714809fd",
+    "toolIdEditMap": {},
+    "checkpointRef": "refs/sessions/18edca5b-f28c-476d-958d-1015c2dd0d6e/checkpoints/turn/1",
+    "responseModelId": "claude-haiku-4.5",
+    "creditsUsed": 26.492929999999998
+  },
+  {
+    "vscodeRequestId": "request_5439f2b7-048b-4087-bff3-97730d7a06d4",
+    "agentId": "",
+    "toolIdEditMap": {},
+    "copilotRequestId": "979eca95-7dc5-4b8f-b01c-403b4520a8c1",
+    "checkpointRef": "refs/sessions/18edca5b-f28c-476d-958d-1015c2dd0d6e/checkpoints/turn/2",
+    "responseModelId": "claude-haiku-4.5",
+    "creditsUsed": 21.06484
+  }
+]

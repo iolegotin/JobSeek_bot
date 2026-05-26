@@ -1,0 +1,34 @@
+{
+  "origin": "vscode",
+  "worktreeProperties": {
+    "autoCommit": false,
+    "branchName": "agents/analyze-files-jobseeker-bot",
+    "baseCommit": "b2a1c88f88725f5ed584ad892052a47af8625555",
+    "baseBranchName": "master",
+    "baseBranchProtected": false,
+    "mergeBaseCommit": "b2a1c88f88725f5ed584ad892052a47af8625555",
+    "hasGitHubRemote": false,
+    "incomingChanges": 0,
+    "outgoingChanges": 0,
+    "uncommittedChanges": 0,
+    "repositoryPath": "e:\\Agent\\Новая папка\\jobseeker_bot",
+    "worktreePath": "e:\\Agent\\Новая папка\\jobseeker_bot.worktrees\\agents-analyze-files-jobseeker-bot",
+    "version": 2,
+    "firstCheckpointRef": "refs/sessions/18edca5b-f28c-476d-958d-1015c2dd0d6e/checkpoints/turn/0",
+    "baseCheckpointRef": "refs/sessions/18edca5b-f28c-476d-958d-1015c2dd0d6e/checkpoints/turn/0",
+    "lastCheckpointRef": "refs/sessions/18edca5b-f28c-476d-958d-1015c2dd0d6e/checkpoints/turn/2",
+    "changes": [
+      {
+        "filePath": "e:\\Agent\\Новая папка\\jobseeker_bot.worktrees\\agents-analyze-files-jobseeker-bot\\app\\core\\services\\tg_deduplicator.py",
+        "modifiedFilePath": "e:\\Agent\\Новая папка\\jobseeker_bot.worktrees\\agents-analyze-files-jobseeker-bot\\app\\core\\services\\tg_deduplicator.py",
+        "statistics": {
+          "additions": 26,
+          "deletions": 0
+        }
+      }
+    ]
+  },
+  "modified": 1779734291497,
+  "created": 1779733479657,
+  "firstUserMessage": ""
+}
